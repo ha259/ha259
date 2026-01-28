@@ -1,35 +1,80 @@
- 👨🏻‍💻 Web Front-end Developer
+👨🏻‍💻 AI & Machine Learning Student
 
-### Tech Stack
+🎓 Artificial Intelligence student with a strong interest in machine learning, deep learning, and data-driven problem solving.
+I enjoy turning mathematical and statistical concepts into real, working AI systems.
 
-- 🛠 Lang & Framework: Vue/React, Javascript
-- ⛏ Interest: Svelte, Typescript
+🧠 Technical Skills
 
-### Latest posts from 📝 [xiaozhu.dev](https://xiaozhu.dev)
+Programming
 
-- [深入了解现代浏览器工作原理（二）「译」](https://xiaozhu.dev/post/inside-look-at-modern-web-browser-2/) (2022-4-24)
-- [深入了解现代浏览器工作原理（一）「译」](https://xiaozhu.dev/post/inside-look-at-modern-web-browser-1/) (2022-4-22)
-- [前端开发环境 - Mac 篇](https://xiaozhu.dev/post/web-dev-mac-env/) (2021-3-25)
+Python, C/C++, Javascript
 
-### TIL from 🗒 [til.xiaozhu.dev](https://til.xiaozhu.dev)
+SQL (Oracle, MySQL)
 
-- [DNS 服务器分类和域名解析流程](https://til.xiaozhu.dev/network/dns-intro) (2021-9-16)
-- [Node.js 包管理器的管理器 Corepack 的介绍和使用](https://til.xiaozhu.dev/node/corepack) (2021-9-15)
-- [sticky 基本使用](https://til.xiaozhu.dev/css/position-sticky) (2021-9-11)
+Machine Learning & AI
 
-### Portfolio
+Scikit-learn
 
-> *pending...*
+TensorFlow / PyTorch
 
-![Leo's github stats](https://github-readme-stats.vercel.app/api?username=mopig&show_icons=true&theme=dracula&hide=stars,issues)
+Supervised & Unsupervised Learning
 
-<details>
-  <summary>Click👆</summary>
-  <pre>
-  🤷‍♂️
-  </pre>
-</details>
+Model evaluation & optimization
 
-![build](https://github.com/mopig/mopig/workflows/build/badge.svg)
-![GitHub last commit](https://img.shields.io/github/last-commit/mopig/mopig)
-![pv](https://pageview.vercel.app/?github_user=mopig)
+Data & Tools
+
+NumPy, Pandas, Matplotlib
+
+Jupyter Notebook
+
+Git & GitHub
+
+Linux
+
+🔬 Areas of Interest
+
+🤖 Machine Learning & Deep Learning
+
+👁 Computer Vision
+
+📊 Data Science & Statistical Analysis
+
+🧠 AI for healthcare & real-world applications
+
+📂 Selected Projects 
+🧪 1. COVID-19 Data Analysis & Prediction
+
+Data cleaning & visualization
+
+Statistical tests (t-test, correlations)
+
+ML model to predict outcomes
+Tech: Pandas, Scikit-learn, Matplotlib
+
+🧠 2. Handwritten Digit Recognition
+
+Neural network trained on MNIST
+
+Model evaluation & confusion matrix
+Tech: PyTorch / TensorFlow
+
+
+📈 3. Student Performance Prediction
+
+Predict academic success from features
+
+Feature engineering & model comparison
+Tech: Scikit-learn
+
+🗄 4. SQL + Data Analytics Project
+
+Complex SQL queries
+
+Data extraction → ML pipeline
+Tech: SQL, Python
+
+s.
+
+📊 GitHub Statistics
+
+<details> <summary>More about me 👆</summary> <pre> 🎯 Goal: AI Engineer / AI Researcher 📚 Strong focus on fundamentals 🤝 Open to collaboration & learning </pre> </details>
